@@ -1,5 +1,6 @@
 # AblationOfImprovedNeuMIP
-groundtruthshell
+groundtruthshell  
+
 ![groundtruthshell0](https://github.com/yley123/AblationOfImprovedNeuMIP/assets/113693616/8281d964-6fa0-43e7-aeb1-2d142a73e67d)
 ourshellfull  
 
